@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m @Yordi-Morales
 - 👀 I’m interested in web programming and full stack development
-- 💻 I’m currently learning CSS,HTML,ReactJs and C#⌨️ 💙
+- 💻 I’m currently learning CSS,JavaScript,HTML,ReactJs and C#⌨️ 💙
 - 🦎🌋🕷️From San Carlos,CR🐍🦟🌳
 <!---
 Yordi-Morales/Yordi-Morales is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
